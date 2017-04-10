@@ -13,7 +13,7 @@ public class Whiteboard extends JFrame
    private static final String[] FONTS =
          GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames();
    private static JFileChooser fileChooser = new JFileChooser();
-   // gui elements
+   // GUI elements
    private JPanel whiteboardPanel;
    private JButton rectButton;
    private JButton ovalButton;
